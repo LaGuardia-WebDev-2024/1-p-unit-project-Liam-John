@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(100%, 95%, 73%);
+
+  h1 {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 40px;
+    font-weight: 50;
+    letter-spacing: 2px;
+    color: rgb(170, 0, 100);
+    text-align: center
+  }
+  h2 {
+    font-family: "Stick No Bills", sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+  }
+  p {
+    font-family: "Stick No Bills", sans-serif;
+    font-size: 21px;
+  }
+  h3 {
+  text-transform: capitalize;
+    
+  }
+  ul{
+    font-family: "Stick No Bills", sans-serif;
+    font-size: 24px;
+    font-weight: thin;
+     list-style-type: "💣";
+  }
+  ol{
+    font-family: "Garamond", serif;
+    font-size:18px;
+    font-weight: thin;
+    list-style-type: Upper-Roman
+  }
+}
